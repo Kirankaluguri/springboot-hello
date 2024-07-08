@@ -55,8 +55,8 @@ nohup java -jar gs-spring-boot-0.1.0.jar > output.log 2>&1 &
 ps aux | grep java
 jobs
 
-http://public-ip:8080
-http://localhost:8080
+http://public-ip:2608
+http://localhost:2608
 ```
 
 ## If you want to run ```Dockerfile-with-ARG-ENV file```
