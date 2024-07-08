@@ -32,7 +32,7 @@ sudo yum install maven -y
 ## Clone code from github:
 
 ```bash
-git clone https://github.com/vickydevo/springboot-hello.git
+git clone https://github.com/Kirankaluguri/springboot-hello.git
 cd springboot-hello
 
 ```
